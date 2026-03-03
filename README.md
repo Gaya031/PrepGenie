@@ -144,7 +144,7 @@ Ensure you have the following installed:
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd interview_ai
+   cd PrepGenie
    ```
 
 2. **Setup Backend**
